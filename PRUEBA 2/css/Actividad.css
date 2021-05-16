@@ -1,0 +1,25 @@
+.div-centrado {
+	
+	margin-top: 20px !important;
+	max-width: 300px;
+	margin: auto;
+	
+
+}
+
+body{
+	background-color:rgb(255, 0, 0);
+    height: 100%;
+    margin: 0;
+	font-family:initial ;
+}
+
+#color {
+	color: aliceblue;
+}
+
+#parrafo{
+	color:aliceblue;
+	font-family:initial;
+	
+}
